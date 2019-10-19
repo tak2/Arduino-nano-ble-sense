@@ -1,4 +1,4 @@
-# Arduino-nano-ble-sense
+# Arduino-nano-33-ble-sense
 some Arduino nano ble sense magic :D
 
 So you got the chip now what to do?
